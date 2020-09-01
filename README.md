@@ -35,7 +35,7 @@ Yes that's a Phineas and Ferb reference.(especially Dr. Doofenshmirtz)
       - This is the language which is most widely used all over the web. You can do almost everthing with it. Name a thing you want to do and there is a js library or package for that. Many People hate it, many people love it. I love it personally and find this as a great language. ***To be honest i think that who hates javascript are the ones who learned it from the w3 schools***
  
       - The key things to learn in js are
-        * The syntax, Basic data types and working ***Resources [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) [Youtube Playlist](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V) [Dan Abramov](justjavascript.com) [Dev Ed](https://www.youtube.com/watch?v=2nZiB1JItbY&list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ)***
+        * The syntax, Basic data types and working ***Resources [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) [Youtube Playlist](https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V) [Dan Abramov](https://justjavascript.com) [Dev Ed](https://www.youtube.com/watch?v=2nZiB1JItbY&list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ)***
         * Modern es6 synatx ***Resources [Es6 Syntax](https://www.youtube.com/watch?v=2LeqilIw-28&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv) [Dev Ed Crash course](https://www.youtube.com/watch?v=WZQc7RUAg18)***
         * Advanced Js ***Resource [Advanced JavaScript](https://javascript.info)***
         
